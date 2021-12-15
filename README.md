@@ -1,4 +1,4 @@
-### Compiler Lab
+### Compiler Design Lab
 1. Lexical Analyser
 2. DFA Implementation
 3. NFA Implementation
